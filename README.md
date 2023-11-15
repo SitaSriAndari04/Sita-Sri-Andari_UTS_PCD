@@ -1,8 +1,5 @@
 Kesimpulan dari kodingan sebagai berikut:
 
-Pemuatan dan Tampilan Gambar:
-
-Gambar dimuat dari URL dan ditampilkan dalam mode warna asli dan mode warna RGB.
 Informasi Gambar:
 
 Ukuran, bentuk, dan tipe data gambar ditampilkan untuk memberikan pemahaman awal tentang karakteristik gambar yang digunakan.
